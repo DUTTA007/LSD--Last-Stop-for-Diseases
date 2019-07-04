@@ -1,0 +1,54 @@
+.title{
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 40px;
+    position: absolute;
+    left: 40%;
+}
+hr{
+    position: relative;
+    top: 80px;
+    color: aqua;
+}
+.login{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 8px;
+    display: block;
+    font-family: 'Allerta Stencil', sans-serif;
+    width: 30%;
+    position: absolute;
+    top: 250px;
+    left: 450px;
+    width: 20%;
+    margin: 0px auto;
+    padding: 50px;
+}
+
+.login input{
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #fff;
+    padding: 15px;
+    outline: none;
+    width: 100%;
+    margin-bottom: 20px;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+}
+
+.login button {
+    background: #000000;
+    color: #fff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 15px;
+    display: block;
+    width: 100%;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+  }
+
